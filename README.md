@@ -1,2 +1,13 @@
-# photo-gallery-app
-A responsive Photo Gallery Web App built using React, Vite, and Tailwind CSS.  The app fetches photos from the Picsum API, displays them in a responsive grid,  allows real-time search by author name, and lets users mark photos as favourites  using useReducer with localStorage persistence.
+# Photo Gallery App
+
+This is a responsive Photo Gallery Web Application built with React, Vite, and Tailwind CSS.
+
+Features:
+- Fetches photos from the Picsum API
+- Displays photos in a responsive grid layout
+- Real-time search filter by author name
+- Mark photos as favourites using useReducer
+- Favourites persist using localStorage
+- Optimized performance using useMemo and useCallback
+
+This project was created as part of a Frontend React Internship Pre-Screening Assignment.
